@@ -1,5 +1,5 @@
 <html>
-	<link rel="stylesheet" type="text/css" href="portfolio.css">
+
 <body>
 <div class="container">
   		<div class="nav">
