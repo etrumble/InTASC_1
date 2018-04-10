@@ -1,5 +1,5 @@
 <html>
-
+	
 <p>The teacher understands how learners grow and develop, recognizing that patterns of learning and development vary individually within and across the cognitive, linguistic, social, emotional, and physical areas, and designs and implements developmentally appropriate and challenging learning experiences.</p>
 <h4>PDF Versions:</h4>
 
