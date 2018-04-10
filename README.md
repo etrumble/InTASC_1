@@ -1,5 +1,25 @@
 <html>
-	
+	<link rel="stylesheet" type="text/css" href="portfolio.css">
+<body>
+<div class="container">
+  		<div class="nav">
+		<h2>Portfolio Entries</h2>
+		<u1>
+			<li>Introduction</li>
+			<li>Resume</li>
+			<li>InTASC 1</li>
+			<li>InTASC 2</li>
+			<li>InTASC 3</li>
+			<li>InTASC 4</li>
+			<li>InTASC 5</li>
+			<li>InTASC 6</li>
+			<li>InTASC 7</li>
+			<li>InTASC 8</li>
+			<li>InTASC 9</li>
+			<li>InTASC 10</li>
+			<li>Technology Standard</li>
+		</u1>
+		</div>	
 <p>The teacher understands how learners grow and develop, recognizing that patterns of learning and development vary individually within and across the cognitive, linguistic, social, emotional, and physical areas, and designs and implements developmentally appropriate and challenging learning experiences.</p>
 <h4>PDF Versions:</h4>
 
