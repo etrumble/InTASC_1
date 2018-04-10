@@ -1,5 +1,5 @@
 <html>
-<h1 align="center">InTASC 1</h1>
+
 <p>The teacher understands how learners grow and develop, recognizing that patterns of learning and development vary individually within and across the cognitive, linguistic, social, emotional, and physical areas, and designs and implements developmentally appropriate and challenging learning experiences.</p>
 <h4>PDF versions</h4>
 <p><a href="file:///C:/Users/Christy/SkyDrive/Documents/Portfolio/InTASC%20Standard%201/InTASC%201%20assignment.pdf">InTASC 1 Reflection</a></p>
