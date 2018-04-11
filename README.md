@@ -1,7 +1,7 @@
 <html>
 	
 <p>The teacher understands how learners grow and develop, recognizing that patterns of learning and development vary individually within and across the cognitive, linguistic, social, emotional, and physical areas, and designs and implements developmentally appropriate and challenging learning experiences.</p>
-<h4>PDF Versions:</h4>
+<h4>PDFs:</h4>
 <p><a href="InTASC%201%20assignment.pdf">InTASC 1 Reflection</a></p>
 <p><a href="Notes%20Observation%20for%20Assignment%20Standard%201.pdf">InTASC 1 Notes</a></p>
 <p><a href="Math%20and%20Reading%20Strategies%20article.pdf">Connecting Reading and Mathematical Strategies</a></p>
