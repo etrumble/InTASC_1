@@ -2,6 +2,10 @@
 	
 <p>The teacher understands how learners grow and develop, recognizing that patterns of learning and development vary individually within and across the cognitive, linguistic, social, emotional, and physical areas, and designs and implements developmentally appropriate and challenging learning experiences.</p>
 <h4>PDF Versions:</h4>
+<p><a href="InTASC%201%20assignment.pdf">InTASC 1 Reflection</a></p>
+<p><a href="Notes%20Observation%20for%20Assignment%20Standard%201.pdf">InTASC 1 Notes</a></p>
+<p><a href="Math%20and%20Reading%20Strategies%20article.pdf">Connecting Reading and Mathematical Strategies</a></p>
+<p><a href="NCTM%20vocab%20strategies%20article.pdf">What's the Big Deal about Vocabulary?</a></p>
 
 <p>Abstract: In this document, we look into a 6th grader with an IEP for reading comprehension, and how we can help them in a math classroom based on observation in multiple classrooms, their IEP file, and two articles about reading in the math classroom. This student had trouble with organization and reading skills, until their parents became involved more with their teachers and then the student improved in their work. Using graphic organizers and other chunking methods will help students with reading comprehension with vocabulary and other reading skills. Especially in math class, it is important for students to read and comprehend, and I will state how I will use the strategies I observed and read to help students with reading comprehension problems in my future classroom, such as graphic organizers, text relatability, and parental contact. </p>
 <h3 align="center">InTASC 1 Reflection</h3>
